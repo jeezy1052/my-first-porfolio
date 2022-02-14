@@ -28,7 +28,7 @@ export const projects = [
   },
   {
     title: 'Color Picker V2',
-    description: "This is a website i built. For a open source project. You can download if from Softpedia or you can get it from the site I built in react.  ",
+    description: "This is a website i built. For a open source project. You can download it from Softpedia or you can get it from the site I built in react.  ",
     image: '/images/cp1.png',
     tags: ['React', 'Bootstrap'],
     source: 'https://github.com/jasonpezzimenti/colorpicker/?fbclid=IwAR0ZD1sV7sOeufzzJq66HcB0GAU9FxSOQdAwLGjNEmlGDrI-MtoYRsXMSuY',
